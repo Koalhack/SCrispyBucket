@@ -1,10 +1,10 @@
 {
-    "version": "3.9.11",
+    "version": "3.9.12",
     "description": "StartAllBack. Embrace, enhance, unsweep classic UI from under the rug. For Windows 11",
     "homepage": "https://www.startallback.com/",
     "license": "Proprietary",
-    "url": "https://startisback.sfo3.cdn.digitaloceanspaces.com/StartAllBack_3.9.11_setup.exe",
-    "hash": "ca82f3f6895592e3fb598e2249dbee109e7bc2afaf12caeb7d76c974738c23d8",
+    "url": "https://startisback.sfo3.cdn.digitaloceanspaces.com/StartAllBack_3.9.12_setup.exe",
+    "hash": "e33256da948c659239a1fdeef785e8944d48fbc15b51d12fedb2fc3d4eae0bd6",
     "installer": {
         "args": [
             "/install",
